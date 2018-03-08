@@ -1,2 +1,5 @@
 # hello-world
-Learning how to create a new repository!
+
+Helloooooo!
+
+Michelle here. Learning how to code!
